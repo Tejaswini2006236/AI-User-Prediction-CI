@@ -1,0 +1,601 @@
+User_ID,Age,Gender,Education,Tech_Skill,AI_Awareness,Internet_Hours,AI_Usage_Hours,Job_Type,Income,Privacy_Concern,AI_Trust,Previous_AI_Experience,AI_Interest,AI_User
+AIU0001,56,Male,Undergraduate,10,3,11.0,3.2,Student,117756,1,1,Yes,4,1
+AIU0002,46,Other,Undergraduate,6,9,11.4,0.0,Unemployed,95134,2,1,No,3,0
+AIU0003,32,Male,Undergraduate,2,4,5.6,0.5,Employee,111016,10,9,Yes,7,0
+AIU0004,60,Other,Undergraduate,3,6,5.2,0.0,Teacher,103239,4,8,Yes,5,1
+AIU0005,25,Male,High School,8,2,11.3,3.6,Self-Employed,8066,5,3,Yes,2,1
+AIU0006,38,Female,High School,10,6,8.4,3.2,Student,53246,2,6,Yes,2,1
+AIU0007,56,Female,PhD,6,3,2.3,3.1,Student,15533,1,3,No,6,0
+AIU0008,36,Other,Undergraduate,3,9,1.5,0.7,Employee,88639,9,4,No,8,0
+AIU0009,40,Male,Undergraduate,7,2,7.2,0.6,Student,78152,1,1,No,1,0
+AIU0010,28,Female,Graduate,4,9,11.2,2.9,Employee,119581,4,5,Yes,6,1
+AIU0011,28,Other,Undergraduate,9,5,10.3,1.2,Student,67658,2,1,No,2,0
+AIU0012,41,Female,Postgraduate,5,8,8.4,0.5,Student,46498,4,1,No,2,0
+AIU0013,53,Female,Graduate,3,2,2.5,1.5,Employee,117028,8,10,Yes,7,0
+AIU0014,57,Female,High School,2,6,3.8,1.2,Employee,19772,8,7,Yes,10,1
+AIU0015,41,Male,Undergraduate,2,3,10.6,0.8,Self-Employed,97385,9,6,No,1,0
+AIU0016,20,Female,Postgraduate,3,10,3.0,0.0,Student,57036,5,2,No,6,0
+AIU0017,39,Female,Postgraduate,2,5,4.1,3.4,Employee,66531,7,2,No,7,0
+AIU0018,19,Female,Undergraduate,4,8,2.4,5.6,Student,20940,3,7,Yes,8,1
+AIU0019,41,Male,Graduate,2,10,8.4,2.4,Student,24932,10,1,Yes,7,1
+AIU0020,47,Male,Undergraduate,10,1,11.4,2.9,Employee,103305,4,2,Yes,6,0
+AIU0021,55,Female,PhD,9,5,4.0,3.6,Student,64827,10,8,No,9,1
+AIU0022,19,Female,Undergraduate,2,3,6.2,3.2,Student,69431,9,6,No,3,0
+AIU0023,38,Male,Postgraduate,9,4,8.0,0.8,Student,32648,10,2,Yes,6,0
+AIU0024,50,Female,Graduate,6,2,12.0,5.9,Student,40966,10,7,No,4,1
+AIU0025,29,Male,Graduate,1,9,2.2,1.0,Student,35777,1,4,Yes,2,0
+AIU0026,39,Male,Undergraduate,4,3,6.5,3.8,Student,40567,2,2,No,1,0
+AIU0027,42,Male,Undergraduate,1,2,5.2,3.6,Student,25174,5,6,Yes,1,0
+AIU0028,44,Male,Undergraduate,6,10,10.5,0.0,Student,50598,3,9,Yes,10,1
+AIU0029,59,Female,Undergraduate,4,9,6.2,1.8,Employee,67199,2,9,Yes,3,1
+AIU0030,45,Male,Undergraduate,3,7,2.2,2.6,Student,21798,1,8,Yes,4,0
+AIU0031,33,Other,Graduate,3,6,8.0,2.8,Student,73364,10,3,Yes,2,0
+AIU0032,32,Other,Undergraduate,9,1,9.5,3.1,Student,25558,3,3,No,1,0
+AIU0033,20,Female,High School,6,5,1.0,4.0,Employee,69084,1,2,No,4,0
+AIU0034,54,Female,PhD,9,3,10.4,2.5,Unemployed,52237,1,5,No,7,1
+AIU0035,24,Male,Postgraduate,5,1,3.0,3.2,Self-Employed,73497,1,4,Yes,10,0
+AIU0036,38,Female,Postgraduate,2,4,7.1,2.4,Employee,8178,8,7,Yes,6,0
+AIU0037,26,Female,PhD,8,2,5.6,0.5,Employee,94006,3,4,Yes,6,1
+AIU0038,56,Male,Undergraduate,5,2,8.9,2.6,Employee,25118,1,9,No,9,1
+AIU0039,35,Female,Undergraduate,2,3,5.1,4.0,Employee,30616,7,2,Yes,2,0
+AIU0040,21,Female,Graduate,4,8,10.6,4.7,Student,8798,10,6,No,4,1
+AIU0041,42,Female,Graduate,9,8,9.0,3.6,Student,15601,3,7,No,5,1
+AIU0042,31,Female,Undergraduate,4,7,8.1,5.2,Student,33363,8,4,Yes,1,1
+AIU0043,26,Female,Postgraduate,4,6,9.8,3.3,Unemployed,10795,4,6,Yes,8,1
+AIU0044,43,Male,Undergraduate,2,9,9.3,4.2,Employee,105462,4,7,Yes,8,1
+AIU0045,19,Female,Undergraduate,6,4,1.4,4.4,Employee,53264,5,4,Yes,6,0
+AIU0046,37,Female,Graduate,2,1,5.3,2.1,Student,110892,6,8,No,5,0
+AIU0047,45,Male,Graduate,7,8,11.2,4.0,Employee,80833,7,9,No,8,1
+AIU0048,24,Male,Graduate,3,7,2.4,0.6,Student,11084,4,1,Yes,3,0
+AIU0049,25,Male,High School,3,7,9.1,3.2,Student,103865,8,7,No,3,1
+AIU0050,52,Female,Postgraduate,5,3,11.7,3.7,Self-Employed,84646,6,9,No,2,1
+AIU0051,31,Other,Undergraduate,3,4,1.6,4.6,Employee,8731,1,10,No,5,0
+AIU0052,34,Male,High School,2,10,8.5,4.1,Student,9129,1,5,Yes,3,1
+AIU0053,53,Female,Postgraduate,10,9,6.1,4.6,Self-Employed,36022,9,2,Yes,3,1
+AIU0054,57,Male,Postgraduate,9,6,7.4,2.3,Student,9605,10,10,Yes,6,1
+AIU0055,21,Other,Postgraduate,2,5,1.9,1.8,Teacher,85506,6,6,No,8,0
+AIU0056,19,Female,Graduate,2,3,1.5,2.0,Student,117241,10,7,Yes,2,0
+AIU0057,23,Female,Graduate,8,9,8.3,3.0,Student,52130,8,2,Yes,4,1
+AIU0058,59,Male,Graduate,9,5,10.1,0.0,Student,37265,7,2,No,7,1
+AIU0059,21,Male,High School,7,5,9.6,5.2,Student,40330,6,10,No,1,1
+AIU0060,46,Male,Undergraduate,3,4,7.0,2.6,Student,76469,4,10,No,1,1
+AIU0061,35,Male,Undergraduate,9,4,2.1,1.7,Employee,23187,7,1,Yes,10,0
+AIU0062,43,Female,Undergraduate,3,1,8.6,0.0,Unemployed,33791,9,4,Yes,7,0
+AIU0063,51,Female,Graduate,5,7,3.7,2.4,Self-Employed,98436,10,7,No,7,0
+AIU0064,27,Other,Undergraduate,9,9,11.0,2.1,Student,78610,10,9,Yes,1,1
+AIU0065,53,Other,High School,3,3,10.2,0.7,Employee,99962,7,3,Yes,1,0
+AIU0066,31,Female,Undergraduate,7,2,8.8,1.2,Student,47867,1,7,Yes,4,1
+AIU0067,48,Female,Graduate,1,3,11.4,2.4,Student,8893,10,7,Yes,5,0
+AIU0068,32,Female,High School,4,1,1.3,1.3,Employee,107694,9,7,Yes,5,0
+AIU0069,25,Female,Postgraduate,4,6,9.1,3.6,Employee,27773,4,2,No,4,0
+AIU0070,31,Male,Undergraduate,7,7,4.6,1.0,Student,12239,3,6,No,8,0
+AIU0071,40,Male,Undergraduate,8,2,11.0,2.8,Student,28863,4,2,No,7,0
+AIU0072,57,Male,Graduate,1,8,3.9,4.9,Teacher,59415,4,6,Yes,9,1
+AIU0073,38,Female,Postgraduate,5,6,9.0,2.4,Student,76968,10,10,Yes,7,1
+AIU0074,33,Female,Undergraduate,7,4,10.7,3.2,Employee,108675,2,3,Yes,10,0
+AIU0075,35,Male,Graduate,4,5,1.5,3.1,Employee,68430,1,2,No,1,0
+AIU0076,41,Female,Graduate,4,8,5.4,2.5,Student,9515,10,6,Yes,7,1
+AIU0077,43,Female,Undergraduate,4,3,9.4,2.4,Student,105206,1,2,No,1,0
+AIU0078,42,Male,Postgraduate,6,3,6.0,1.4,Student,112630,8,5,No,7,0
+AIU0079,58,Male,Graduate,7,4,3.9,2.8,Self-Employed,22605,2,2,Yes,10,1
+AIU0080,46,Female,Graduate,2,1,3.4,1.9,Employee,64240,10,3,Yes,8,0
+AIU0081,32,Female,Postgraduate,5,9,2.4,5.6,Employee,13586,5,3,No,9,1
+AIU0082,18,Female,Postgraduate,4,8,10.4,4.1,Teacher,109221,4,6,No,3,0
+AIU0083,42,Female,Graduate,3,8,7.3,0.0,Self-Employed,39186,8,6,Yes,4,0
+AIU0084,24,Female,Postgraduate,7,10,1.8,0.0,Employee,34928,2,10,Yes,4,1
+AIU0085,26,Female,Graduate,6,6,5.2,2.2,Employee,106264,10,3,No,9,0
+AIU0086,41,Female,Graduate,7,7,5.0,1.7,Employee,91087,9,3,Yes,7,0
+AIU0087,18,Female,Graduate,5,6,3.0,2.1,Employee,95029,7,1,Yes,3,0
+AIU0088,25,Male,Graduate,6,9,5.8,3.8,Employee,28711,7,7,Yes,10,1
+AIU0089,41,Male,Undergraduate,5,3,4.7,3.1,Employee,62962,1,8,Yes,5,1
+AIU0090,28,Male,Postgraduate,7,3,4.8,3.1,Student,28039,2,2,Yes,7,0
+AIU0091,34,Female,Postgraduate,2,3,9.1,5.4,Employee,44561,4,4,Yes,8,0
+AIU0092,25,Female,High School,5,10,3.5,0.0,Student,83483,4,10,Yes,1,0
+AIU0093,52,Female,Postgraduate,6,3,8.1,2.7,Student,105871,3,7,Yes,2,1
+AIU0094,52,Male,High School,6,9,7.3,1.3,Student,89395,7,8,No,7,1
+AIU0095,50,Male,Undergraduate,5,4,7.2,5.4,Employee,96658,8,1,No,2,0
+AIU0096,22,Male,Graduate,10,7,8.3,0.0,Employee,9577,2,4,No,7,1
+AIU0097,59,Male,Undergraduate,7,9,7.0,0.0,Student,115792,4,6,No,9,1
+AIU0098,56,Female,Postgraduate,10,7,10.7,3.1,Employee,36350,3,3,Yes,2,1
+AIU0099,58,Male,Postgraduate,8,9,8.4,4.8,Employee,115468,2,5,Yes,7,1
+AIU0100,45,Male,Undergraduate,7,3,7.0,4.0,Student,41798,6,10,No,4,1
+AIU0101,24,Female,High School,5,4,10.1,0.9,Employee,105434,4,9,Yes,2,1
+AIU0102,26,Male,Undergraduate,1,8,7.7,5.5,Self-Employed,89417,6,3,Yes,7,1
+AIU0103,25,Female,Graduate,5,6,4.2,0.0,Self-Employed,18785,2,5,No,5,0
+AIU0104,29,Female,PhD,10,5,3.3,5.1,Employee,80227,4,8,Yes,1,1
+AIU0105,51,Male,Graduate,2,4,2.7,0.3,Employee,69957,6,6,Yes,5,0
+AIU0106,50,Female,Undergraduate,5,8,10.9,1.8,Student,73431,5,4,No,3,1
+AIU0107,40,Female,Graduate,5,1,8.8,3.8,Student,25297,3,8,No,7,1
+AIU0108,41,Female,Graduate,2,9,11.3,0.0,Student,79894,8,3,Yes,6,1
+AIU0109,54,Male,Graduate,5,1,7.6,5.4,Teacher,71772,7,3,No,8,1
+AIU0110,52,Female,High School,4,8,6.2,1.8,Student,27581,3,4,No,5,0
+AIU0111,57,Female,Graduate,1,4,1.7,2.8,Student,63192,6,9,No,2,0
+AIU0112,39,Male,Graduate,3,9,8.4,4.8,Unemployed,9462,4,5,Yes,9,1
+AIU0113,44,Male,PhD,1,5,7.4,0.9,Teacher,72173,5,8,Yes,8,1
+AIU0114,52,Other,Undergraduate,5,3,11.9,4.6,Self-Employed,23511,5,6,No,6,1
+AIU0115,18,Female,Graduate,4,9,3.6,5.8,Student,84106,7,3,No,10,1
+AIU0116,52,Male,Postgraduate,7,9,6.8,1.2,Student,56665,5,8,No,7,1
+AIU0117,54,Female,High School,5,4,8.2,5.2,Student,52414,3,9,Yes,9,1
+AIU0118,31,Male,Postgraduate,10,4,8.1,0.0,Student,89010,10,8,Yes,7,1
+AIU0119,20,Male,Graduate,4,8,7.2,3.3,Student,80573,5,4,No,3,0
+AIU0120,18,Male,High School,2,2,9.5,0.0,Employee,101665,7,6,Yes,6,0
+AIU0121,22,Male,Undergraduate,4,9,3.3,4.4,Teacher,115803,5,1,Yes,7,1
+AIU0122,43,Male,Graduate,2,6,9.0,4.2,Student,21386,5,4,Yes,2,0
+AIU0123,31,Male,High School,8,9,7.8,6.7,Employee,62460,9,8,Yes,3,1
+AIU0124,56,Female,Graduate,3,8,10.9,5.3,Employee,14221,3,1,No,4,1
+AIU0125,44,Male,Undergraduate,9,7,10.3,2.2,Student,31474,6,3,No,10,1
+AIU0126,26,Male,Graduate,4,1,4.5,0.3,Employee,114073,1,1,Yes,6,0
+AIU0127,32,Female,High School,6,3,4.0,3.6,Student,29045,10,9,Yes,1,0
+AIU0128,32,Male,Postgraduate,10,2,11.8,2.4,Student,99319,5,2,No,9,1
+AIU0129,43,Female,PhD,5,5,6.8,5.6,Employee,113693,8,9,Yes,5,1
+AIU0130,59,Male,PhD,10,5,11.0,0.0,Student,12922,5,4,Yes,7,1
+AIU0131,30,Male,Graduate,1,5,2.8,6.9,Teacher,119943,9,2,No,9,0
+AIU0132,49,Male,High School,9,4,8.1,3.6,Student,30706,6,4,Yes,9,1
+AIU0133,56,Male,Graduate,1,5,9.9,0.9,Employee,50771,8,10,No,1,0
+AIU0134,49,Male,High School,8,3,11.4,4.0,Employee,60335,10,6,Yes,1,1
+AIU0135,21,Male,High School,9,1,4.7,5.1,Student,106015,8,7,No,3,0
+AIU0136,47,Male,Undergraduate,9,5,9.0,2.7,Student,60949,3,3,Yes,6,1
+AIU0137,54,Male,Undergraduate,1,9,6.9,0.0,Employee,78714,7,3,No,2,0
+AIU0138,40,Male,Graduate,2,9,1.7,1.9,Self-Employed,103558,7,10,Yes,10,1
+AIU0139,56,Male,Graduate,1,4,8.6,4.6,Unemployed,23240,10,8,Yes,1,0
+AIU0140,32,Male,Undergraduate,10,3,8.6,3.5,Employee,99756,6,5,No,1,0
+AIU0141,60,Female,Undergraduate,2,1,11.2,2.2,Self-Employed,110272,7,4,Yes,5,0
+AIU0142,46,Female,PhD,10,2,6.5,5.1,Employee,10716,2,7,Yes,4,0
+AIU0143,53,Male,Undergraduate,8,8,3.5,4.0,Employee,24574,9,7,Yes,1,0
+AIU0144,30,Female,Undergraduate,5,1,1.5,4.1,Employee,119815,10,9,No,4,0
+AIU0145,49,Female,Undergraduate,7,8,5.6,1.7,Employee,91255,10,9,Yes,3,0
+AIU0146,24,Male,Graduate,2,7,4.3,1.5,Self-Employed,81717,1,5,Yes,2,0
+AIU0147,39,Female,Graduate,8,8,9.4,0.0,Employee,119299,1,8,No,9,1
+AIU0148,45,Female,Undergraduate,6,6,4.9,2.0,Self-Employed,52066,3,10,Yes,1,1
+AIU0149,19,Male,High School,8,9,11.4,4.4,Employee,69826,3,1,No,7,1
+AIU0150,59,Male,Graduate,1,3,11.6,2.1,Student,28213,1,9,No,4,0
+AIU0151,23,Female,Graduate,1,10,7.8,3.4,Student,79916,7,8,No,5,1
+AIU0152,45,Female,Undergraduate,7,4,11.2,4.7,Student,74151,4,6,No,10,1
+AIU0153,45,Male,Postgraduate,8,6,9.4,3.2,Employee,58906,10,3,No,5,0
+AIU0154,37,Male,Undergraduate,3,8,7.0,3.4,Self-Employed,8463,2,3,Yes,1,0
+AIU0155,47,Male,Undergraduate,5,5,3.0,0.0,Student,39973,10,8,No,6,0
+AIU0156,28,Female,Postgraduate,1,3,6.0,1.9,Self-Employed,82694,5,5,Yes,9,1
+AIU0157,45,Female,Undergraduate,7,6,7.2,6.0,Unemployed,28651,6,10,Yes,2,1
+AIU0158,42,Male,Graduate,5,4,10.5,2.7,Student,76694,9,7,No,7,0
+AIU0159,56,Male,Undergraduate,8,9,6.3,6.3,Unemployed,28008,4,5,Yes,6,1
+AIU0160,50,Female,Undergraduate,8,3,10.9,1.1,Teacher,119738,2,8,No,5,1
+AIU0161,18,Male,PhD,9,4,8.4,3.0,Employee,78474,5,10,Yes,4,1
+AIU0162,44,Male,Undergraduate,7,7,2.5,1.7,Self-Employed,46185,3,10,No,4,0
+AIU0163,30,Female,Postgraduate,1,7,11.9,3.7,Teacher,95924,2,4,Yes,6,1
+AIU0164,58,Female,Undergraduate,3,4,6.8,4.3,Employee,82417,1,2,No,4,0
+AIU0165,20,Female,Undergraduate,8,6,5.3,3.7,Student,79139,10,3,No,5,0
+AIU0166,56,Female,High School,3,3,8.3,4.6,Self-Employed,42980,2,8,No,6,1
+AIU0167,23,Male,Graduate,8,6,2.2,2.5,Employee,30504,6,7,Yes,5,1
+AIU0168,25,Male,Undergraduate,1,2,8.0,2.1,Employee,62970,8,2,Yes,7,0
+AIU0169,44,Female,Postgraduate,5,8,6.5,0.0,Student,24766,3,6,Yes,9,1
+AIU0170,26,Male,Undergraduate,4,2,5.5,3.8,Self-Employed,101922,9,9,No,10,1
+AIU0171,54,Male,PhD,5,7,11.5,2.8,Student,19695,9,4,No,7,1
+AIU0172,50,Male,Undergraduate,8,9,6.7,2.4,Teacher,25796,2,9,Yes,7,1
+AIU0173,59,Male,Postgraduate,10,1,3.4,2.1,Student,50543,8,2,No,4,0
+AIU0174,41,Male,Graduate,4,8,6.0,2.4,Student,22559,10,2,No,1,0
+AIU0175,32,Male,Graduate,4,7,11.1,2.0,Employee,112450,5,9,Yes,8,1
+AIU0176,49,Male,Postgraduate,3,6,2.9,1.4,Student,41139,4,7,No,4,0
+AIU0177,49,Male,Graduate,7,6,3.4,3.0,Employee,111869,10,7,No,1,0
+AIU0178,41,Female,Graduate,3,6,1.1,3.5,Unemployed,16802,5,1,Yes,5,0
+AIU0179,58,Female,High School,3,9,1.2,1.0,Self-Employed,81843,4,6,Yes,8,1
+AIU0180,29,Female,High School,10,2,10.1,1.7,Student,48205,8,7,Yes,4,1
+AIU0181,56,Female,Postgraduate,5,1,9.1,2.1,Student,106750,4,6,No,8,0
+AIU0182,19,Female,Graduate,5,6,4.9,2.5,Self-Employed,42159,10,6,No,8,0
+AIU0183,20,Male,Graduate,6,10,8.7,2.2,Teacher,19516,6,2,No,3,0
+AIU0184,54,Female,Undergraduate,8,8,5.3,3.8,Employee,58492,2,6,Yes,9,1
+AIU0185,34,Female,High School,10,3,11.5,0.0,Employee,37086,5,4,Yes,3,1
+AIU0186,19,Female,High School,6,10,11.6,0.0,Student,38480,6,9,Yes,1,1
+AIU0187,19,Male,Graduate,1,1,5.3,2.9,Unemployed,60091,5,1,Yes,2,0
+AIU0188,45,Male,Undergraduate,8,9,10.4,1.3,Employee,118195,2,8,No,6,1
+AIU0189,40,Male,Undergraduate,8,1,9.5,4.3,Student,55766,7,5,No,10,0
+AIU0190,54,Male,Undergraduate,9,3,4.4,4.8,Student,46737,4,1,No,2,0
+AIU0191,49,Female,High School,9,8,3.6,3.0,Unemployed,17265,8,4,No,6,1
+AIU0192,50,Female,Graduate,2,3,6.0,0.4,Student,78990,7,1,Yes,1,0
+AIU0193,18,Male,Undergraduate,2,4,9.6,4.6,Student,109454,7,6,Yes,1,0
+AIU0194,36,Other,Graduate,3,8,11.6,2.9,Employee,99717,9,2,Yes,5,1
+AIU0195,19,Female,Undergraduate,1,1,9.4,0.0,Student,23386,1,5,No,10,0
+AIU0196,43,Male,Undergraduate,4,6,10.4,0.0,Student,112718,10,7,No,9,1
+AIU0197,49,Male,High School,4,1,7.6,5.5,Self-Employed,45425,6,2,Yes,8,0
+AIU0198,23,Male,High School,9,1,10.2,5.2,Unemployed,51254,6,6,Yes,3,1
+AIU0199,49,Male,Undergraduate,9,8,9.6,0.0,Self-Employed,97863,6,6,Yes,3,1
+AIU0200,21,Male,Undergraduate,9,4,5.1,0.0,Unemployed,61634,6,5,Yes,1,0
+AIU0201,28,Male,Graduate,10,1,7.1,4.8,Employee,94717,10,5,Yes,3,0
+AIU0202,34,Male,Undergraduate,7,10,9.9,2.5,Self-Employed,55662,7,3,Yes,1,1
+AIU0203,55,Male,Graduate,2,7,1.5,3.9,Employee,94988,10,10,Yes,8,1
+AIU0204,41,Female,Postgraduate,10,5,9.9,2.4,Employee,111784,6,10,No,1,1
+AIU0205,22,Male,Graduate,5,5,3.0,3.8,Teacher,114337,1,2,No,5,0
+AIU0206,51,Female,High School,4,1,6.7,2.5,Student,107287,3,7,Yes,9,1
+AIU0207,23,Male,Undergraduate,8,10,9.9,1.6,Employee,95527,2,1,Yes,7,1
+AIU0208,39,Other,High School,2,6,3.8,4.6,Employee,114847,6,6,Yes,4,0
+AIU0209,28,Male,Undergraduate,6,9,3.7,2.9,Student,83452,8,6,Yes,9,0
+AIU0210,33,Male,PhD,5,9,5.4,3.8,Student,18143,3,3,Yes,9,1
+AIU0211,50,Other,High School,2,8,10.8,2.8,Self-Employed,99391,10,2,Yes,2,0
+AIU0212,26,Female,Undergraduate,10,5,1.0,1.5,Teacher,23581,8,2,No,10,0
+AIU0213,23,Female,Graduate,1,1,10.9,5.7,Employee,75443,8,9,No,10,1
+AIU0214,33,Male,Graduate,8,9,2.7,3.2,Student,37424,5,5,Yes,6,1
+AIU0215,46,Male,Graduate,2,1,11.9,1.8,Student,96844,8,7,No,4,0
+AIU0216,20,Female,High School,7,8,11.5,5.1,Unemployed,49984,6,5,Yes,8,1
+AIU0217,37,Female,Undergraduate,9,5,6.4,0.0,Employee,49505,5,7,Yes,7,1
+AIU0218,53,Female,Undergraduate,9,3,6.6,7.0,Student,110478,9,4,No,7,1
+AIU0219,36,Female,High School,8,7,6.3,2.1,Employee,70699,7,8,No,10,1
+AIU0220,43,Male,Undergraduate,10,7,8.0,0.0,Student,34957,8,10,No,9,1
+AIU0221,20,Female,High School,9,9,2.0,6.3,Employee,33464,1,10,No,5,1
+AIU0222,36,Male,High School,2,7,1.4,1.6,Unemployed,31649,2,7,No,6,0
+AIU0223,37,Male,Undergraduate,6,3,1.6,3.0,Employee,50065,8,10,No,1,0
+AIU0224,49,Male,High School,4,1,5.9,3.9,Employee,100661,9,5,No,6,0
+AIU0225,24,Female,Graduate,4,8,4.0,4.9,Student,42758,4,6,Yes,2,1
+AIU0226,58,Male,Graduate,5,3,7.8,3.1,Employee,13596,10,5,No,6,0
+AIU0227,50,Male,Graduate,3,8,11.9,1.2,Employee,24374,10,7,No,9,1
+AIU0228,57,Female,Undergraduate,1,8,5.2,2.9,Student,11775,9,2,No,8,0
+AIU0229,56,Male,Undergraduate,8,5,7.3,1.7,Employee,35388,4,5,Yes,9,1
+AIU0230,35,Female,High School,5,1,5.6,3.0,Student,29029,10,10,No,10,0
+AIU0231,57,Male,Graduate,3,10,10.3,5.8,Self-Employed,91981,10,3,Yes,8,1
+AIU0232,18,Female,Graduate,10,7,10.9,4.0,Employee,61639,10,9,Yes,3,1
+AIU0233,28,Female,High School,7,10,10.7,2.9,Teacher,22645,9,6,Yes,8,1
+AIU0234,45,Male,Postgraduate,7,5,11.7,4.0,Student,39105,7,10,No,6,1
+AIU0235,42,Male,High School,1,8,1.3,4.1,Self-Employed,21668,2,3,No,6,0
+AIU0236,40,Male,Graduate,9,9,10.2,0.3,Employee,23960,9,7,Yes,6,1
+AIU0237,48,Male,Graduate,2,7,9.3,2.6,Self-Employed,19357,4,4,Yes,3,1
+AIU0238,47,Other,Postgraduate,5,7,3.5,7.6,Student,72604,8,3,Yes,10,1
+AIU0239,59,Male,Graduate,5,1,11.5,4.9,Employee,110739,7,8,No,1,0
+AIU0240,52,Female,Graduate,8,4,2.6,1.5,Self-Employed,59796,7,4,Yes,4,1
+AIU0241,24,Male,Undergraduate,8,2,8.5,1.3,Student,23804,8,1,Yes,10,0
+AIU0242,33,Female,Postgraduate,7,2,3.5,1.2,Student,22626,1,6,Yes,6,0
+AIU0243,43,Female,High School,7,2,5.7,4.2,Employee,36132,5,10,Yes,10,1
+AIU0244,19,Female,Postgraduate,6,4,8.9,5.7,Employee,15951,2,1,Yes,2,1
+AIU0245,18,Male,Graduate,6,1,7.2,3.7,Student,14449,2,5,No,7,1
+AIU0246,29,Male,Postgraduate,9,4,5.7,2.8,Student,27065,1,7,Yes,7,1
+AIU0247,22,Male,Undergraduate,6,2,4.6,1.6,Student,109503,5,6,No,4,0
+AIU0248,54,Female,Graduate,2,5,10.2,3.2,Self-Employed,113072,2,2,Yes,4,0
+AIU0249,49,Female,Undergraduate,2,3,2.6,0.9,Employee,17130,4,4,Yes,1,0
+AIU0250,26,Other,Graduate,5,8,5.7,0.0,Self-Employed,97360,3,2,Yes,2,0
+AIU0251,58,Male,High School,4,4,10.9,5.8,Teacher,70287,3,1,No,9,1
+AIU0252,52,Female,High School,2,1,10.3,0.5,Employee,114937,2,3,No,10,0
+AIU0253,36,Female,Undergraduate,3,1,5.4,1.9,Student,59702,6,3,No,8,0
+AIU0254,33,Male,Undergraduate,7,10,9.4,3.8,Student,44993,2,7,No,8,1
+AIU0255,20,Male,Postgraduate,8,3,10.1,5.4,Student,39875,8,1,Yes,9,1
+AIU0256,37,Female,Undergraduate,6,9,10.8,3.0,Teacher,14054,8,9,No,7,1
+AIU0257,41,Female,PhD,5,7,7.0,0.1,Employee,107809,5,6,No,9,1
+AIU0258,50,Female,Undergraduate,1,2,3.2,1.9,Student,115357,10,4,Yes,10,0
+AIU0259,41,Male,Undergraduate,8,9,3.8,1.1,Employee,56517,7,3,No,2,0
+AIU0260,28,Female,Graduate,3,10,4.3,2.4,Employee,84368,4,3,Yes,6,0
+AIU0261,25,Male,Graduate,6,2,7.5,5.0,Employee,37670,1,2,Yes,3,1
+AIU0262,53,Male,Undergraduate,3,3,1.4,0.0,Student,57112,2,2,Yes,6,0
+AIU0263,55,Male,Graduate,7,10,8.0,1.7,Teacher,96388,10,10,Yes,3,1
+AIU0264,57,Female,Graduate,7,2,5.0,1.5,Employee,97156,10,5,Yes,8,0
+AIU0265,37,Female,Undergraduate,9,3,4.2,0.0,Student,36307,4,9,Yes,4,0
+AIU0266,52,Female,PhD,5,6,10.7,3.7,Unemployed,75087,1,2,Yes,10,1
+AIU0267,42,Male,PhD,8,9,6.1,0.0,Student,55922,8,2,Yes,6,0
+AIU0268,52,Female,Graduate,10,9,2.0,0.0,Unemployed,71080,9,6,No,9,1
+AIU0269,42,Male,Undergraduate,10,7,10.1,4.2,Teacher,101348,4,10,No,2,1
+AIU0270,46,Female,Graduate,8,3,1.5,5.5,Employee,87335,10,2,Yes,2,0
+AIU0271,35,Male,High School,1,4,9.0,2.3,Self-Employed,34312,3,4,Yes,7,0
+AIU0272,35,Male,High School,5,6,9.5,0.1,Student,113156,2,6,Yes,2,0
+AIU0273,19,Male,Undergraduate,3,5,4.9,1.1,Teacher,74985,5,5,No,2,0
+AIU0274,52,Male,Undergraduate,1,2,10.1,4.5,Employee,65608,3,1,Yes,4,0
+AIU0275,33,Female,Postgraduate,4,6,6.7,2.7,Employee,97962,10,6,Yes,9,0
+AIU0276,58,Female,Graduate,8,3,6.1,2.3,Teacher,108963,7,1,Yes,8,1
+AIU0277,53,Male,Graduate,3,8,1.5,3.1,Teacher,48277,6,3,No,2,0
+AIU0278,50,Female,Undergraduate,10,2,4.2,2.4,Self-Employed,39551,1,10,Yes,8,1
+AIU0279,21,Male,Undergraduate,2,1,11.2,5.6,Student,97813,8,5,Yes,4,1
+AIU0280,50,Female,Undergraduate,9,9,5.3,1.0,Teacher,64597,2,10,Yes,2,1
+AIU0281,31,Female,PhD,10,3,7.0,0.8,Employee,109025,5,5,Yes,10,1
+AIU0282,38,Female,High School,5,1,6.9,0.0,Teacher,53212,9,10,No,7,0
+AIU0283,37,Male,Postgraduate,7,7,7.5,1.4,Employee,17637,8,6,No,6,1
+AIU0284,25,Female,Graduate,2,10,1.7,0.3,Student,51258,2,10,No,10,1
+AIU0285,24,Female,Undergraduate,9,5,5.0,2.9,Student,43693,9,8,No,5,1
+AIU0286,20,Male,Graduate,9,5,9.0,2.5,Employee,17824,5,5,Yes,1,0
+AIU0287,34,Male,Undergraduate,4,1,3.2,0.3,Self-Employed,34950,10,1,No,2,0
+AIU0288,50,Female,Postgraduate,4,9,3.2,3.7,Student,31488,6,5,No,8,1
+AIU0289,29,Female,Postgraduate,6,7,1.1,5.5,Employee,112544,3,3,Yes,1,0
+AIU0290,39,Female,Undergraduate,10,8,5.8,3.2,Student,8215,3,4,No,3,1
+AIU0291,39,Female,Undergraduate,10,9,10.7,0.0,Self-Employed,113603,10,8,Yes,2,1
+AIU0292,47,Female,Graduate,10,6,1.6,6.5,Employee,19523,8,7,Yes,5,1
+AIU0293,55,Male,Postgraduate,6,5,3.1,4.0,Student,83900,10,5,No,4,0
+AIU0294,55,Male,Undergraduate,1,6,4.4,6.4,Student,76689,10,2,No,7,0
+AIU0295,25,Male,Graduate,9,2,9.0,4.7,Student,31834,2,6,No,5,1
+AIU0296,44,Female,Graduate,2,4,8.0,5.1,Employee,42474,2,6,Yes,8,1
+AIU0297,44,Male,Graduate,5,3,5.6,2.9,Student,51066,5,10,No,4,0
+AIU0298,51,Female,High School,9,7,9.3,2.0,Student,107871,6,10,Yes,6,1
+AIU0299,38,Female,Graduate,4,9,7.7,3.2,Teacher,18400,2,6,Yes,4,1
+AIU0300,47,Female,Postgraduate,3,5,10.9,1.1,Unemployed,18345,5,9,No,2,0
+AIU0301,50,Male,Undergraduate,7,6,10.0,3.4,Employee,41896,7,8,No,1,0
+AIU0302,45,Female,Undergraduate,6,10,3.8,0.0,Teacher,93430,10,8,Yes,1,0
+AIU0303,50,Male,PhD,8,2,4.0,2.6,Student,36899,10,1,No,8,0
+AIU0304,22,Female,Undergraduate,3,3,2.4,5.2,Employee,114171,8,5,Yes,4,1
+AIU0305,36,Male,Postgraduate,5,3,4.7,2.7,Employee,36229,7,7,Yes,5,0
+AIU0306,21,Male,Undergraduate,10,9,12.0,6.0,Employee,13583,8,6,Yes,8,1
+AIU0307,52,Female,Undergraduate,4,7,5.5,2.0,Employee,12897,9,5,No,7,0
+AIU0308,34,Male,Postgraduate,4,8,3.4,4.5,Employee,79537,5,8,Yes,8,1
+AIU0309,45,Male,Undergraduate,4,10,9.4,0.7,Employee,117417,5,3,No,8,1
+AIU0310,47,Female,Undergraduate,10,9,7.0,4.4,Employee,12567,10,6,Yes,6,1
+AIU0311,46,Female,Undergraduate,8,6,2.6,3.0,Student,82807,4,5,No,10,0
+AIU0312,23,Female,Graduate,6,4,5.2,2.1,Student,85239,9,8,Yes,2,0
+AIU0313,52,Female,Undergraduate,3,1,5.6,0.0,Student,21329,5,4,No,6,0
+AIU0314,58,Female,Undergraduate,10,8,9.3,2.0,Student,109045,2,8,Yes,1,1
+AIU0315,54,Male,PhD,5,7,1.2,2.9,Employee,79792,10,10,No,1,0
+AIU0316,41,Male,Undergraduate,6,2,4.0,4.2,Student,8228,8,2,No,3,0
+AIU0317,46,Male,Graduate,5,8,6.7,5.6,Unemployed,98282,7,9,No,3,1
+AIU0318,48,Female,Undergraduate,6,5,4.0,6.6,Student,90214,8,9,Yes,5,1
+AIU0319,52,Female,Graduate,8,7,7.9,5.0,Student,45052,3,10,No,1,1
+AIU0320,50,Male,High School,7,4,6.3,1.4,Employee,65769,4,10,Yes,10,1
+AIU0321,38,Male,PhD,5,5,5.0,1.9,Student,54032,5,6,No,6,0
+AIU0322,49,Female,Undergraduate,10,8,11.4,4.0,Employee,119694,6,4,No,7,1
+AIU0323,40,Male,Undergraduate,6,1,8.0,3.5,Employee,96721,1,4,Yes,10,1
+AIU0324,50,Female,High School,4,1,2.4,5.8,Student,41686,4,6,Yes,3,0
+AIU0325,20,Female,Undergraduate,9,4,7.2,7.5,Student,84981,10,5,Yes,4,1
+AIU0326,35,Female,Undergraduate,4,3,9.6,7.0,Student,106802,5,6,No,10,1
+AIU0327,42,Male,Undergraduate,1,10,8.8,5.5,Student,71261,7,7,No,10,1
+AIU0328,59,Female,Postgraduate,7,2,2.9,3.6,Student,10809,5,7,Yes,10,1
+AIU0329,48,Female,Undergraduate,7,3,11.7,5.2,Student,111265,1,9,Yes,10,1
+AIU0330,20,Female,Undergraduate,4,1,5.9,5.8,Student,49785,7,8,Yes,10,0
+AIU0331,57,Female,Graduate,3,1,2.7,2.2,Employee,44547,8,6,Yes,3,0
+AIU0332,41,Female,Graduate,8,6,3.0,1.4,Employee,50818,7,6,Yes,1,0
+AIU0333,49,Female,Undergraduate,5,5,2.1,1.0,Employee,108422,4,5,No,8,0
+AIU0334,39,Male,Undergraduate,10,8,9.8,0.7,Student,79927,8,1,Yes,10,1
+AIU0335,40,Female,High School,7,2,2.3,0.0,Student,73681,5,9,No,10,0
+AIU0336,19,Female,Graduate,4,4,2.4,3.0,Unemployed,87465,10,9,No,2,0
+AIU0337,44,Male,Graduate,4,8,10.4,0.5,Employee,97862,9,9,Yes,1,1
+AIU0338,59,Female,Undergraduate,8,6,4.8,0.9,Unemployed,103527,10,8,No,8,0
+AIU0339,19,Female,Postgraduate,8,1,1.3,3.9,Student,45333,5,10,Yes,7,1
+AIU0340,43,Female,Graduate,2,4,1.6,2.9,Employee,24576,1,3,Yes,7,0
+AIU0341,34,Male,Graduate,2,1,2.6,3.4,Employee,47405,9,1,Yes,4,0
+AIU0342,57,Male,Postgraduate,3,2,3.3,5.2,Student,102000,5,8,Yes,9,0
+AIU0343,50,Other,Undergraduate,3,5,8.3,4.2,Employee,81779,6,7,Yes,6,1
+AIU0344,26,Female,High School,1,8,2.7,5.5,Employee,39601,4,5,Yes,2,0
+AIU0345,60,Male,Undergraduate,3,8,2.3,2.7,Student,75946,6,10,Yes,1,0
+AIU0346,56,Female,High School,6,3,9.4,5.7,Student,75356,8,7,Yes,1,1
+AIU0347,46,Female,Graduate,8,4,8.4,3.2,Self-Employed,60116,3,10,Yes,9,1
+AIU0348,59,Female,Postgraduate,10,10,5.8,2.8,Unemployed,108825,5,4,Yes,4,1
+AIU0349,43,Female,High School,6,6,7.0,5.4,Student,112186,2,9,Yes,5,1
+AIU0350,52,Male,High School,5,10,4.4,0.8,Student,70894,2,10,Yes,3,1
+AIU0351,42,Male,Undergraduate,4,3,6.3,6.5,Student,42635,7,2,No,4,0
+AIU0352,41,Male,Postgraduate,3,2,6.6,1.9,Employee,15465,10,9,Yes,8,0
+AIU0353,30,Female,Undergraduate,4,6,5.3,0.1,Student,64754,10,9,No,4,0
+AIU0354,24,Male,Undergraduate,7,5,11.0,3.8,Teacher,105975,10,5,Yes,9,1
+AIU0355,53,Male,High School,1,10,1.2,1.7,Student,100850,6,1,No,9,0
+AIU0356,37,Male,High School,7,5,9.6,6.6,Employee,117765,4,7,Yes,6,1
+AIU0357,18,Female,PhD,1,10,2.4,1.6,Employee,93119,5,10,No,2,0
+AIU0358,25,Female,PhD,2,5,9.8,3.1,Self-Employed,100691,1,10,No,10,0
+AIU0359,33,Male,High School,4,10,7.8,0.0,Employee,46871,7,4,Yes,7,1
+AIU0360,31,Male,Postgraduate,1,5,10.3,4.1,Employee,70874,8,9,No,9,1
+AIU0361,29,Female,Graduate,9,3,2.1,0.9,Teacher,85733,9,6,Yes,6,0
+AIU0362,40,Male,Postgraduate,6,7,7.1,3.9,Student,37511,8,3,Yes,3,0
+AIU0363,32,Male,Undergraduate,1,6,6.5,1.6,Unemployed,88960,5,6,No,7,1
+AIU0364,45,Male,Undergraduate,1,4,8.8,0.0,Student,56821,3,10,No,5,0
+AIU0365,51,Male,Undergraduate,6,2,6.9,2.8,Self-Employed,73776,10,6,Yes,1,0
+AIU0366,19,Male,Graduate,4,9,6.9,2.7,Employee,78167,9,5,Yes,3,0
+AIU0367,49,Female,High School,4,1,5.7,4.3,Student,83135,6,2,No,5,0
+AIU0368,40,Male,High School,6,4,4.4,5.6,Unemployed,52462,5,10,No,7,1
+AIU0369,39,Female,Undergraduate,7,1,6.3,6.3,Student,69382,3,10,No,3,1
+AIU0370,42,Male,Graduate,9,6,2.3,4.2,Student,98194,6,2,No,6,1
+AIU0371,39,Female,Undergraduate,10,4,11.6,3.1,Employee,111381,3,7,Yes,5,1
+AIU0372,39,Female,Graduate,5,5,8.9,0.0,Student,40574,10,2,No,1,0
+AIU0373,59,Male,PhD,9,5,11.5,2.9,Employee,110072,6,6,Yes,10,1
+AIU0374,23,Female,High School,4,9,3.5,2.9,Student,49910,4,5,Yes,6,1
+AIU0375,32,Male,Graduate,10,1,10.7,2.1,Student,81531,2,4,Yes,8,1
+AIU0376,60,Other,Undergraduate,2,2,9.9,3.8,Student,33186,8,7,No,1,0
+AIU0377,54,Male,Postgraduate,3,6,8.4,4.7,Student,102781,4,8,Yes,2,1
+AIU0378,50,Male,Undergraduate,1,5,7.9,0.9,Employee,30813,9,4,No,4,0
+AIU0379,25,Male,Graduate,6,7,4.5,0.8,Self-Employed,86812,7,1,Yes,2,0
+AIU0380,22,Other,Postgraduate,6,3,10.0,2.2,Unemployed,93525,2,1,Yes,9,0
+AIU0381,56,Female,Postgraduate,1,3,6.5,1.3,Self-Employed,86282,4,1,No,10,0
+AIU0382,21,Female,Graduate,3,10,1.8,0.0,Student,117779,5,1,Yes,8,0
+AIU0383,23,Male,Undergraduate,5,2,4.4,0.5,Employee,26557,3,5,Yes,8,0
+AIU0384,49,Female,Graduate,3,3,11.3,0.0,Student,36060,9,4,Yes,4,0
+AIU0385,47,Male,Postgraduate,10,10,10.4,4.9,Student,66866,5,9,No,5,1
+AIU0386,52,Female,Graduate,3,1,11.8,5.9,Employee,80104,2,3,Yes,4,0
+AIU0387,57,Male,High School,10,5,7.9,0.3,Student,108905,3,7,Yes,9,1
+AIU0388,33,Male,Postgraduate,3,5,3.7,3.6,Student,92577,9,8,Yes,2,0
+AIU0389,30,Male,Graduate,5,7,2.8,4.2,Teacher,14080,7,6,Yes,8,0
+AIU0390,59,Male,Graduate,5,4,3.1,0.0,Employee,21854,2,10,Yes,2,0
+AIU0391,47,Female,Undergraduate,4,3,1.2,2.8,Employee,75695,9,1,Yes,1,0
+AIU0392,36,Male,Graduate,1,1,5.3,7.6,Student,35025,4,8,Yes,10,0
+AIU0393,34,Female,Undergraduate,5,8,3.1,3.9,Student,60982,9,10,No,3,1
+AIU0394,36,Male,Graduate,10,3,5.5,2.0,Unemployed,49081,2,3,Yes,9,1
+AIU0395,45,Female,High School,5,2,11.3,1.4,Student,12368,10,8,Yes,3,0
+AIU0396,43,Male,Graduate,4,4,5.7,0.0,Employee,107621,4,4,Yes,9,1
+AIU0397,54,Male,PhD,6,3,10.7,3.4,Student,35094,5,8,Yes,7,1
+AIU0398,43,Female,High School,10,1,7.7,6.4,Employee,54040,2,1,No,10,1
+AIU0399,40,Male,PhD,4,3,3.7,0.9,Student,74766,10,3,Yes,1,0
+AIU0400,26,Male,Undergraduate,7,2,4.9,0.0,Self-Employed,91053,1,6,Yes,10,1
+AIU0401,29,Female,Postgraduate,7,8,1.9,1.2,Self-Employed,31991,7,9,No,5,1
+AIU0402,18,Female,Graduate,2,6,4.7,4.3,Self-Employed,9301,10,2,Yes,9,0
+AIU0403,18,Male,Graduate,3,9,8.5,1.6,Student,36610,1,1,Yes,3,0
+AIU0404,51,Male,Graduate,1,8,1.8,0.9,Self-Employed,89463,8,10,Yes,9,1
+AIU0405,49,Female,Postgraduate,8,10,3.3,2.5,Employee,42678,3,3,Yes,5,0
+AIU0406,42,Male,Undergraduate,9,3,5.2,3.0,Student,32466,10,4,Yes,9,0
+AIU0407,57,Male,Undergraduate,4,5,11.8,0.0,Employee,88440,6,5,Yes,10,1
+AIU0408,18,Male,Graduate,6,7,9.6,2.1,Student,48875,7,3,No,6,0
+AIU0409,33,Female,Graduate,9,5,9.1,1.5,Student,34081,10,10,No,9,1
+AIU0410,56,Female,Graduate,6,8,2.3,1.2,Self-Employed,32354,1,2,Yes,7,0
+AIU0411,22,Male,Graduate,9,5,9.6,0.5,Student,101297,6,2,Yes,7,1
+AIU0412,39,Male,Undergraduate,4,1,9.6,4.4,Employee,26300,7,7,Yes,8,1
+AIU0413,46,Male,Postgraduate,8,5,7.6,1.2,Employee,72384,6,9,Yes,7,1
+AIU0414,20,Female,High School,9,4,11.9,0.0,Unemployed,103027,4,10,Yes,9,1
+AIU0415,29,Male,Graduate,4,6,4.6,3.0,Teacher,68892,1,2,No,9,0
+AIU0416,43,Male,High School,5,3,11.4,4.0,Unemployed,43525,9,7,No,6,0
+AIU0417,33,Female,Undergraduate,8,5,11.1,0.9,Student,34532,4,7,No,7,1
+AIU0418,54,Male,Undergraduate,10,2,1.1,1.4,Student,14464,7,7,No,2,0
+AIU0419,39,Female,Undergraduate,6,6,6.0,1.2,Employee,24562,7,3,Yes,9,1
+AIU0420,46,Male,Graduate,7,6,11.7,1.8,Student,115392,2,7,Yes,1,1
+AIU0421,31,Male,Undergraduate,3,5,2.1,4.7,Student,63514,1,1,Yes,1,0
+AIU0422,45,Male,Undergraduate,7,6,7.0,2.3,Employee,116047,8,10,Yes,3,0
+AIU0423,22,Female,Undergraduate,8,7,11.8,4.2,Employee,82219,8,1,No,6,0
+AIU0424,47,Female,Undergraduate,10,5,7.1,0.6,Teacher,40634,7,5,Yes,5,0
+AIU0425,22,Female,Undergraduate,6,1,3.1,1.7,Student,8060,8,2,No,2,0
+AIU0426,29,Male,High School,10,8,7.4,4.4,Student,17269,3,9,Yes,9,1
+AIU0427,33,Female,Graduate,9,4,3.2,0.9,Student,71143,2,7,No,10,1
+AIU0428,43,Male,Graduate,6,9,6.7,4.5,Unemployed,31065,7,4,No,4,1
+AIU0429,43,Male,Graduate,9,10,1.8,1.2,Self-Employed,10895,8,4,No,4,0
+AIU0430,38,Female,Undergraduate,4,6,7.7,1.9,Self-Employed,88859,1,2,No,5,0
+AIU0431,56,Male,Undergraduate,8,1,6.7,5.8,Unemployed,20352,10,5,Yes,8,0
+AIU0432,53,Male,Postgraduate,4,3,9.1,1.6,Employee,118179,9,4,No,10,0
+AIU0433,50,Male,Undergraduate,2,3,7.9,2.8,Employee,57737,4,1,No,4,0
+AIU0434,47,Male,Undergraduate,10,10,7.0,3.7,Student,112127,4,8,No,5,1
+AIU0435,54,Male,High School,9,4,8.6,3.0,Employee,104426,3,3,No,4,0
+AIU0436,40,Female,Undergraduate,5,6,2.6,3.0,Employee,40016,6,6,No,6,0
+AIU0437,27,Male,Undergraduate,4,7,7.5,2.4,Employee,69304,1,4,No,3,0
+AIU0438,22,Female,Undergraduate,2,10,2.9,0.0,Teacher,19962,6,9,Yes,8,1
+AIU0439,53,Female,Graduate,1,4,11.2,3.2,Teacher,41302,2,7,No,6,1
+AIU0440,51,Male,Graduate,7,6,1.8,1.0,Self-Employed,93382,9,9,Yes,10,0
+AIU0441,48,Male,Graduate,6,1,5.7,4.1,Self-Employed,12011,2,10,Yes,5,1
+AIU0442,27,Male,Graduate,2,8,8.7,5.2,Employee,27782,7,3,Yes,2,0
+AIU0443,36,Female,Postgraduate,8,7,6.0,0.0,Student,75691,1,1,Yes,10,0
+AIU0444,49,Male,Graduate,4,9,2.0,5.2,Student,47725,7,5,Yes,10,1
+AIU0445,18,Female,Postgraduate,8,3,7.1,1.7,Employee,17196,5,3,Yes,7,0
+AIU0446,22,Male,High School,7,2,8.1,2.2,Employee,51459,8,6,Yes,2,0
+AIU0447,21,Female,Undergraduate,5,1,8.7,0.7,Student,95245,4,8,Yes,1,0
+AIU0448,33,Male,High School,10,3,5.1,2.9,Teacher,86863,10,4,Yes,7,1
+AIU0449,41,Male,Graduate,10,5,7.2,2.6,Student,109010,7,5,No,5,1
+AIU0450,33,Female,Postgraduate,8,2,6.0,4.7,Student,40769,6,5,No,1,0
+AIU0451,19,Female,Undergraduate,9,3,8.4,1.0,Employee,115529,5,4,No,4,0
+AIU0452,45,Male,Postgraduate,5,4,7.4,5.8,Student,32700,4,4,No,4,1
+AIU0453,49,Female,High School,10,7,6.8,3.8,Student,88356,7,4,No,10,1
+AIU0454,44,Female,Postgraduate,5,3,3.7,2.7,Student,84427,5,4,Yes,7,0
+AIU0455,37,Female,Undergraduate,2,9,1.0,2.1,Self-Employed,108165,5,4,No,9,0
+AIU0456,41,Female,High School,5,8,2.9,1.9,Employee,13269,1,5,No,2,0
+AIU0457,29,Male,Undergraduate,3,4,2.3,2.0,Employee,51880,2,2,Yes,1,0
+AIU0458,52,Male,Undergraduate,7,1,5.9,2.8,Employee,16320,5,2,Yes,2,0
+AIU0459,50,Male,Undergraduate,10,1,7.7,2.1,Student,57589,3,9,No,7,0
+AIU0460,50,Female,Undergraduate,5,1,3.3,1.2,Teacher,84276,2,2,Yes,10,0
+AIU0461,60,Female,Graduate,8,1,11.3,2.8,Student,43897,4,6,No,6,1
+AIU0462,54,Male,Graduate,1,8,1.1,0.8,Teacher,66565,4,2,Yes,4,0
+AIU0463,29,Male,Undergraduate,3,3,9.5,3.1,Employee,38930,4,5,No,1,0
+AIU0464,20,Female,Graduate,3,6,7.9,2.1,Teacher,65233,4,4,Yes,1,1
+AIU0465,18,Other,Graduate,9,3,5.1,3.9,Student,90821,3,7,Yes,5,1
+AIU0466,50,Female,Undergraduate,5,5,1.6,4.5,Employee,22380,7,7,Yes,1,0
+AIU0467,57,Male,Undergraduate,9,7,7.9,4.5,Student,84896,9,6,No,7,1
+AIU0468,27,Male,High School,9,2,5.2,3.1,Student,78934,5,10,No,1,0
+AIU0469,60,Male,Undergraduate,1,6,11.3,3.4,Employee,63830,4,5,No,1,0
+AIU0470,46,Female,Graduate,2,6,7.0,1.9,Student,13529,2,1,Yes,2,0
+AIU0471,30,Male,Undergraduate,5,3,11.3,3.9,Employee,102598,2,3,No,10,1
+AIU0472,29,Female,Undergraduate,4,6,3.4,4.1,Student,110222,5,9,Yes,3,1
+AIU0473,48,Male,Graduate,10,10,9.0,0.0,Student,90987,7,1,Yes,1,0
+AIU0474,19,Female,High School,9,10,7.8,3.3,Self-Employed,57178,10,5,Yes,9,1
+AIU0475,52,Female,Graduate,7,5,9.1,5.2,Employee,14937,10,2,No,10,1
+AIU0476,40,Female,Undergraduate,6,2,3.4,1.8,Employee,47886,9,4,Yes,8,0
+AIU0477,34,Male,PhD,7,9,8.3,1.4,Employee,57699,7,1,Yes,5,1
+AIU0478,43,Male,Undergraduate,1,8,6.5,1.7,Unemployed,84396,5,3,No,2,0
+AIU0479,25,Male,Graduate,1,3,9.2,0.0,Student,98678,10,10,No,5,0
+AIU0480,46,Female,Graduate,8,8,4.6,2.8,Employee,33279,10,7,Yes,6,1
+AIU0481,43,Female,High School,2,9,10.8,2.6,Teacher,46106,10,10,Yes,1,1
+AIU0482,27,Female,Graduate,10,3,1.9,2.9,Employee,118776,6,3,Yes,4,0
+AIU0483,43,Female,Postgraduate,9,3,9.9,3.3,Employee,109444,3,4,Yes,9,1
+AIU0484,51,Female,Graduate,7,2,10.5,0.9,Employee,114300,5,2,No,2,0
+AIU0485,58,Male,Postgraduate,6,8,10.0,3.0,Employee,87737,8,3,Yes,5,1
+AIU0486,24,Female,Postgraduate,1,10,6.6,3.4,Employee,48544,1,9,No,1,0
+AIU0487,21,Male,Undergraduate,1,1,5.8,1.5,Student,111247,1,3,No,4,0
+AIU0488,28,Male,Undergraduate,2,8,12.0,3.3,Student,119190,7,5,Yes,4,1
+AIU0489,46,Female,Graduate,6,7,3.5,2.7,Self-Employed,16997,5,2,No,6,0
+AIU0490,53,Male,Undergraduate,6,7,7.0,1.2,Student,114102,5,4,Yes,10,1
+AIU0491,42,Male,Postgraduate,2,3,8.4,3.1,Employee,93711,1,7,Yes,9,0
+AIU0492,38,Female,Postgraduate,1,1,8.7,1.9,Student,48860,9,7,Yes,3,0
+AIU0493,53,Male,Undergraduate,10,4,3.2,3.9,Employee,11225,1,3,Yes,9,1
+AIU0494,27,Female,Undergraduate,5,9,8.2,2.0,Student,118114,5,5,Yes,6,1
+AIU0495,54,Male,Graduate,5,5,10.0,0.0,Student,67470,10,1,Yes,7,0
+AIU0496,26,Male,Undergraduate,2,1,1.6,3.0,Teacher,108764,9,10,No,10,0
+AIU0497,41,Male,Postgraduate,6,5,11.0,3.0,Unemployed,115041,4,10,No,2,1
+AIU0498,52,Male,Undergraduate,9,8,1.3,0.3,Employee,71656,8,10,No,10,1
+AIU0499,52,Female,Graduate,2,8,4.9,4.0,Employee,59880,6,1,Yes,6,0
+AIU0500,53,Male,High School,10,5,1.2,3.9,Employee,69078,3,5,No,6,0
+AIU0501,35,Female,Graduate,2,9,1.8,0.8,Employee,96646,4,10,No,2,1
+AIU0502,56,Male,Undergraduate,3,1,11.0,1.2,Employee,84290,2,9,No,2,0
+AIU0503,49,Female,Graduate,7,4,4.9,2.2,Student,64633,1,1,No,2,0
+AIU0504,41,Female,Undergraduate,6,3,5.7,1.0,Employee,34655,8,1,No,10,0
+AIU0505,40,Female,Graduate,8,2,3.4,3.8,Self-Employed,51601,1,4,Yes,1,1
+AIU0506,49,Male,Postgraduate,8,8,7.6,2.8,Teacher,11114,1,4,No,5,1
+AIU0507,54,Male,Undergraduate,6,7,7.5,0.3,Student,34502,4,2,Yes,8,0
+AIU0508,29,Male,High School,10,9,5.1,0.9,Employee,57768,10,9,No,2,1
+AIU0509,30,Female,High School,3,2,4.7,4.9,Employee,56128,10,9,Yes,5,0
+AIU0510,40,Male,Graduate,3,4,10.7,5.6,Employee,28028,6,2,Yes,8,0
+AIU0511,42,Female,Graduate,1,6,5.2,3.6,Student,63565,9,9,Yes,10,1
+AIU0512,52,Female,Graduate,7,3,6.4,2.1,Employee,91123,1,6,No,5,1
+AIU0513,58,Male,Undergraduate,5,8,4.1,1.6,Student,116255,7,8,Yes,2,0
+AIU0514,47,Female,Undergraduate,4,3,9.7,3.6,Student,43333,10,10,Yes,3,1
+AIU0515,34,Male,Graduate,10,2,5.4,2.7,Employee,11174,5,4,No,6,0
+AIU0516,37,Male,Undergraduate,4,3,6.6,0.0,Employee,43398,8,2,No,5,0
+AIU0517,42,Female,PhD,4,6,3.8,4.6,Employee,43929,7,2,Yes,4,0
+AIU0518,39,Female,High School,6,2,11.9,5.2,Teacher,12321,4,9,Yes,4,1
+AIU0519,30,Female,Graduate,8,8,4.2,4.0,Student,103971,4,1,No,5,0
+AIU0520,36,Male,Undergraduate,8,1,9.5,0.3,Student,119508,6,7,No,2,0
+AIU0521,53,Male,Undergraduate,5,7,5.7,1.2,Employee,63421,6,3,Yes,9,1
+AIU0522,29,Female,Graduate,6,2,3.3,0.0,Student,80635,9,3,No,2,0
+AIU0523,58,Female,Graduate,4,10,9.8,5.7,Student,31760,5,2,Yes,10,1
+AIU0524,36,Female,PhD,9,6,4.7,1.8,Student,19360,8,10,No,2,1
+AIU0525,29,Male,High School,8,2,10.5,7.2,Student,18313,5,6,No,10,1
+AIU0526,26,Female,High School,10,2,11.1,6.4,Self-Employed,119806,2,10,Yes,9,1
+AIU0527,24,Male,Graduate,10,10,10.5,0.7,Student,93998,6,2,Yes,3,1
+AIU0528,45,Male,Graduate,1,8,1.4,1.1,Employee,13801,9,10,No,10,1
+AIU0529,31,Female,Undergraduate,2,2,9.7,3.4,Student,22130,3,4,No,7,0
+AIU0530,48,Male,High School,9,7,5.5,0.0,Employee,22271,1,10,Yes,4,1
+AIU0531,36,Female,High School,8,3,10.6,1.6,Student,24075,1,9,No,6,1
+AIU0532,33,Male,Postgraduate,3,8,8.0,1.4,Self-Employed,110455,3,9,No,4,1
+AIU0533,22,Male,Undergraduate,8,7,10.2,6.2,Employee,115215,10,6,Yes,10,1
+AIU0534,52,Female,Undergraduate,1,8,6.5,2.8,Student,26984,5,4,No,7,1
+AIU0535,29,Female,Undergraduate,10,7,6.9,1.9,Employee,96095,3,7,No,1,1
+AIU0536,42,Female,Undergraduate,4,6,2.6,1.2,Student,68942,9,1,No,3,0
+AIU0537,38,Female,High School,3,7,9.6,4.3,Employee,20861,8,4,Yes,3,1
+AIU0538,53,Female,Undergraduate,6,5,5.6,1.5,Student,106970,3,5,Yes,1,0
+AIU0539,40,Female,High School,7,7,6.5,2.4,Unemployed,90203,9,8,Yes,6,1
+AIU0540,33,Female,Graduate,4,1,9.6,1.2,Student,79376,6,2,No,9,0
+AIU0541,56,Male,Undergraduate,7,1,7.6,0.0,Employee,69247,7,5,No,8,0
+AIU0542,59,Female,Graduate,9,9,3.2,0.5,Student,77101,4,6,No,7,0
+AIU0543,56,Male,Postgraduate,2,5,7.5,1.5,Student,116730,4,5,No,10,1
+AIU0544,31,Other,Graduate,3,5,5.5,2.0,Employee,28977,2,9,Yes,8,1
+AIU0545,48,Female,Graduate,5,3,6.2,2.1,Unemployed,58617,5,10,No,6,1
+AIU0546,22,Male,Undergraduate,3,5,1.3,2.3,Student,65473,8,1,Yes,9,0
+AIU0547,52,Female,Undergraduate,8,3,3.3,1.5,Student,94654,7,3,No,3,0
+AIU0548,40,Female,Graduate,10,9,4.1,5.2,Student,96177,7,2,Yes,10,1
+AIU0549,46,Male,PhD,8,9,8.8,4.4,Student,80902,6,3,No,10,1
+AIU0550,60,Female,Graduate,8,6,1.1,2.2,Student,100172,3,10,No,9,1
+AIU0551,28,Female,Graduate,9,1,5.5,3.0,Employee,23630,5,9,No,4,1
+AIU0552,35,Male,Graduate,4,7,11.2,1.8,Student,28056,1,9,Yes,7,1
+AIU0553,29,Female,Undergraduate,5,7,2.2,0.0,Student,15382,7,10,Yes,9,0
+AIU0554,26,Male,High School,5,10,6.7,2.5,Employee,63739,9,2,No,2,0
+AIU0555,27,Female,Graduate,8,10,9.7,3.1,Student,89685,1,3,No,2,1
+AIU0556,34,Other,Postgraduate,7,4,11.4,0.0,Student,56639,2,4,Yes,9,1
+AIU0557,55,Female,Undergraduate,9,8,9.2,3.5,Student,67838,3,9,No,3,1
+AIU0558,24,Male,Graduate,8,6,8.9,1.9,Employee,54041,3,3,Yes,9,1
+AIU0559,30,Female,Undergraduate,2,4,10.1,3.2,Student,8992,8,7,Yes,5,0
+AIU0560,57,Female,Graduate,10,4,5.9,2.0,Employee,80394,7,3,No,6,0
+AIU0561,59,Male,High School,4,2,9.9,5.0,Student,75657,6,7,No,2,1
+AIU0562,26,Female,Undergraduate,6,2,1.1,3.0,Employee,35160,10,7,No,8,0
+AIU0563,44,Male,Graduate,2,4,11.2,4.5,Student,53156,10,9,No,9,1
+AIU0564,19,Female,Undergraduate,7,5,5.9,4.7,Employee,59375,4,2,Yes,2,0
+AIU0565,22,Male,Graduate,3,8,7.1,0.3,Self-Employed,94442,9,6,Yes,6,1
+AIU0566,46,Male,Graduate,3,6,3.8,1.0,Employee,27572,1,9,Yes,6,0
+AIU0567,54,Male,Postgraduate,2,4,9.2,3.4,Student,12136,2,2,Yes,8,0
+AIU0568,55,Female,Undergraduate,8,7,1.8,1.8,Student,69868,4,2,No,10,0
+AIU0569,36,Male,Undergraduate,6,8,10.6,2.0,Student,90263,3,5,Yes,5,1
+AIU0570,25,Female,Undergraduate,1,2,10.1,5.1,Student,40167,1,10,Yes,9,1
+AIU0571,18,Male,PhD,1,7,3.4,1.9,Student,118957,5,10,Yes,1,0
+AIU0572,39,Male,Postgraduate,7,2,9.9,0.6,Self-Employed,23479,7,10,Yes,9,1
+AIU0573,34,Female,Graduate,8,2,9.6,0.8,Employee,39376,2,8,Yes,10,1
+AIU0574,24,Female,Postgraduate,5,8,8.0,6.9,Employee,12823,5,9,No,7,1
+AIU0575,42,Male,Undergraduate,5,2,5.1,2.1,Employee,78456,6,2,No,4,0
+AIU0576,21,Female,Graduate,4,9,4.0,0.0,Employee,27585,7,5,No,3,0
+AIU0577,53,Female,High School,6,1,3.5,0.0,Student,111775,1,7,No,10,0
+AIU0578,23,Female,Graduate,6,9,4.5,1.3,Self-Employed,25272,7,6,Yes,6,1
+AIU0579,48,Male,High School,3,1,10.9,2.1,Student,34619,4,6,No,1,0
+AIU0580,36,Male,Postgraduate,9,10,1.9,4.4,Employee,83069,8,7,Yes,3,1
+AIU0581,56,Female,Graduate,7,10,10.1,4.2,Self-Employed,47895,4,3,Yes,2,1
+AIU0582,44,Male,Graduate,1,2,4.8,2.5,Employee,11720,6,3,No,9,0
+AIU0583,27,Female,High School,7,6,6.7,1.6,Employee,27267,9,10,Yes,3,1
+AIU0584,43,Female,Undergraduate,5,6,9.7,3.2,Student,23696,5,9,No,2,1
+AIU0585,36,Female,Undergraduate,5,1,10.7,0.0,Student,37968,4,8,Yes,4,0
+AIU0586,56,Female,Undergraduate,2,7,4.8,6.5,Employee,61364,8,5,No,2,1
+AIU0587,20,Other,High School,4,8,6.1,3.8,Employee,31345,9,6,Yes,1,0
+AIU0588,30,Male,Postgraduate,6,2,5.6,4.2,Unemployed,59567,4,10,Yes,6,1
+AIU0589,45,Female,Graduate,10,8,1.1,0.4,Student,99229,3,1,No,10,1
+AIU0590,37,Male,Undergraduate,7,9,4.3,5.1,Student,69607,8,10,Yes,8,1
+AIU0591,45,Male,Undergraduate,5,6,6.1,1.6,Student,27385,5,1,Yes,10,0
+AIU0592,25,Female,Undergraduate,9,5,5.5,0.6,Student,91658,2,4,Yes,10,1
+AIU0593,58,Female,Graduate,3,9,8.9,2.4,Employee,74900,10,2,No,2,0
+AIU0594,56,Other,Undergraduate,1,9,5.2,2.4,Employee,76244,9,7,No,9,0
+AIU0595,18,Female,Postgraduate,4,1,6.4,0.3,Employee,73425,3,2,Yes,3,0
+AIU0596,20,Male,Undergraduate,9,3,5.7,0.7,Self-Employed,86518,2,10,No,8,1
+AIU0597,30,Male,PhD,4,9,9.1,0.6,Unemployed,90844,1,2,No,8,0
+AIU0598,45,Female,Postgraduate,2,2,10.5,0.6,Self-Employed,40919,8,5,No,3,0
+AIU0599,42,Male,Undergraduate,10,4,6.9,1.7,Student,98697,3,4,No,3,1
+AIU0600,50,Male,Postgraduate,5,4,9.7,0.0,Employee,65196,7,8,Yes,6,0
